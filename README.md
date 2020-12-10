@@ -14,7 +14,9 @@
 
 另外，这个项目和慕课网视频的那个饿了么没有任何关系，慕课网的项目只有一个页面，我在看完vue的官方文档后直接写了这个项目，没有参照任何人的代码，请大家不要混为一谈。
 
-__注：此项目纯属个人瞎搞，正常下单请选择饿了么官方客户端。__
+__注1：此项目纯属个人瞎搞，正常下单请选择饿了么官方客户端。__
+
+__注2：项目预览地址和接口需要使用https访问哦！__
 
 
 ## 技术栈
@@ -57,7 +59,7 @@ npm run dev
 
 >  开发环境 macOS 10.12.3  Chrome 56  nodejs 6.10.0
 
->  特别感谢辰妹子[@bailichen](https://github.com/bailichen), [@iceRao](https://github.com/raoenhui)，在百忙之中抽出时间和我一起完成了这个项目，辛苦了🌹
+>  特别感谢[@bailichen](https://github.com/bailichen), [@iceRao](https://github.com/raoenhui)，在百忙之中抽出时间和我一起完成了这个项目，辛苦了🌹
 
 >  如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
 
@@ -70,11 +72,11 @@ npm run dev
 
 # 效果演示
 
-[查看demo请戳这里](http://cangdu.org/elm/)（请用chrome手机模式预览）
+[查看demo请戳这里](https://cangdu.org/elm/)（请用chrome手机模式预览）
 
 ### 移动端扫描下方二维码
 
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/ewm.png" width="250" height="250"/>
+<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/ewm.png" width="200" height="200"/>
 
 
 
